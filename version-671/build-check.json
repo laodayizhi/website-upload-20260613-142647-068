@@ -1,0 +1,21 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "category_pages": 10,
+  "video_sources_found": 20,
+  "html_missing_baidu": [],
+  "image_files_included": [],
+  "channels": {
+    "热门精选": 200,
+    "最新片单": 200,
+    "华语剧场": 200,
+    "高分电影": 200,
+    "剧集连播": 200,
+    "悬疑犯罪": 200,
+    "爱情家庭": 200,
+    "动作冒险": 200,
+    "喜剧奇幻": 200,
+    "纪录文艺": 200
+  }
+}
